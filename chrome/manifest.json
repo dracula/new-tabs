@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Dracula new tab",
+  "version": "1.1",
+  "description": "New page in dracula style!",
+  "author": "Superredstone",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"],
+  "icons": {}
+}
