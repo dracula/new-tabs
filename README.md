@@ -1,32 +1,27 @@
-# Dracula new tab for Firefox and Chromium
+# Dracula for [Chrome](https://www.google.com/chrome) and [Firefox](https://www.mozilla.org/firefox) New Tabs
 
-A minimal new tab extension for Firefox and Chromium based browsers
+> A dark theme for [Chrome](https://www.google.com/chrome) and [Firefox](https://www.mozilla.org/firefox) New Tabs.
 
-# Preview
+![Screenshot](./screenshot.png)
 
-<img src="chrome/screenshot.png"/>
-<img src="firefox/screenshot.png"/>
+## Install
 
-# Search engine support
+All instructions can be found at [draculatheme.com/new-tabs](https://draculatheme.com/new-tabs).
 
-Currently are supported this search engines:
+## Team
 
-- Google
-- Yahoo
-- Bing
-- Duckduckgo
-- Brave search
-- Qwant
-- Ecosia
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-Feel free to open a pull request if you want your favourite searche engine in this project!
+| [![Patrick](https://github.com/Superredstone.png?size=100)](https://github.com/Superredstone) |
+| --------------------------------------------------------------------------------------------- |
+| [Patrick](https://github.com/Superredstone)                                                   |
 
-# How to install
+## Community
 
-Check `install.md` file inside the `firefox/` or `chrome/` directory
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
-# Special thanks
+## License
 
-- [Dracula theme](https://draculatheme.com/) for creating this fantastic palette!
-
-# License GPL-2.0
+[MIT License](./LICENSE)

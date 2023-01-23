@@ -1,5 +1,6 @@
 html {
-  font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+    'Helvetica Neue', sans-serif;
 }
 
 body {
@@ -9,7 +10,7 @@ body {
 
 .text {
   color: rgb(248, 248, 242);
-} 
+}
 
 .title {
   display: flex;
@@ -53,7 +54,7 @@ body {
 }
 
 .search-bar {
-  border-radius: 20px 20px 20px 20px; 
+  border-radius: 20px 20px 20px 20px;
   width: 30vw;
   height: 2rem;
   padding: 5px;

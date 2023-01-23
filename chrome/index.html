@@ -2,17 +2,23 @@
 <html lang="en">
   <head>
     <title></title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width initial-scale=1">
-    <link href="style.css" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <link href="style.css" rel="stylesheet" />
   </head>
   <body>
     <div class="title text">
-      <h1>Dracula search!</h1><br/>
+      <h1>Dracula search!</h1>
+      <br />
       <h3 class="subtitle">
-        Powered by 
+        Powered by
         <select id="select-search-engine" class="select-search-engine">
-          <option value="" id="selected-search-engine" selected="selected" hidden></option>
+          <option
+            value=""
+            id="selected-search-engine"
+            selected="selected"
+            hidden
+          ></option>
           <optgroup label="Get spied">
             <option value="google">Google</option>
             <option value="yahoo">Yahoo</option>
@@ -31,14 +37,24 @@
     </div>
     <div class="main-container">
       <form id="search-form">
-        <input class="search-bar" id="search-bar" type="text" placeholder="Search..." name="query" autocomplete="off"/>
-        <button id="search-button" class="search-button" type="submit">Go</button> 
+        <input
+          class="search-bar"
+          id="search-bar"
+          type="text"
+          placeholder="Search..."
+          name="query"
+          autocomplete="off"
+        />
+        <button id="search-button" class="search-button" type="submit">
+          Go
+        </button>
       </form>
     </div>
     <div class="footer">
       <p class="text">
-        Created with love by <a href="https://github.com/Superredstone">Superredstone</a>
-      </p> 
+        Created with love by
+        <a href="https://github.com/Superredstone">Superredstone</a>
+      </p>
     </div>
 
     <script src="script.js"></script>
