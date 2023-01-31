@@ -4,7 +4,7 @@
 
 #### [Chrome](https://www.google.com/chrome)
 
-##### Install using Git
+#### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
@@ -12,11 +12,11 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 git clone https://github.com/dracula/new-tabs.git
 ```
 
-##### Install manually
+#### Install manually
 
 Download using the [GitHub .zip download](https://github.com/dracula/new-tabs/archive/master.zip) option and unzip them.
 
-##### Activating theme
+#### Activating theme
 
 1. 🔍 Search `chrome://extensions/` in your browser;
 2. Click: "Load unpacked extension";
@@ -24,11 +24,11 @@ Download using the [GitHub .zip download](https://github.com/dracula/new-tabs/ar
 
 #### [Firefox](https://www.mozilla.org/firefox)
 
-##### Install using Firefox addons
+#### Install using Firefox addons
 
 Check out [this](https://addons.mozilla.org/it/firefox/addon/dracula-new-tab/) website and click "Add to Firefox".
 
-##### Install using Git
+#### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
@@ -36,11 +36,11 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 git clone https://github.com/dracula/new-tabs.git
 ```
 
-##### Install manually
+#### Install manually
 
 Download using the [GitHub .zip download](https://github.com/dracula/new-tabs/archive/master.zip) option and unzip them.
 
-##### Activating theme
+#### Activating theme
 
 1. 🔍 Search `about:debugging` in your browser;
 2. Click: "Load extension";
